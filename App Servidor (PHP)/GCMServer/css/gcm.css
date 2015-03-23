@@ -1,0 +1,17 @@
+.label 
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+.textbox
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	width: 400px;
+}
+.button
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+}

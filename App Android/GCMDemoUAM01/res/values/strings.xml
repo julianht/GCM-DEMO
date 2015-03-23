@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">GCM DEMO UAM</string>
+    <string name="hello_world">Hola Dispositivo!</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="regbutton">Registrar Dispositivo</string>
+    <string name="msglbl">"Mensaje: "</string>
+	<string name="action_settings">Configuración</string>
+	<string name="consultarbutton">Ver Id Dispositivo</string>
+ 
+</resources>

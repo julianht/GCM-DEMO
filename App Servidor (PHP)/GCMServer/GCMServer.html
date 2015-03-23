@@ -1,0 +1,53 @@
+<meta charset="utf-8" />
+
+<html>
+	<head>
+		<title>GCM DEMO UAM</title>
+		<link rel="stylesheet" type="text/css" href="css/gcm.css">
+	</head>
+	 
+	<body>
+	 
+		<form action="GCMServer.php" method="post">
+			<table>
+				<tr>
+					<td colspan="2" align="center">
+						<img src="images/uam_logo.png" />
+					</td>
+				</tr>
+				<tr>
+						<br />
+					<td>
+						<span class="label">Google API Key:</span>
+					</td>
+					<td>
+						<input class="textbox" type="Text" name="apiKey" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span class="label">ID de registro del dispositivo:</span> 
+					</td>
+					<td>
+						<textarea class="textbox" name="idDispositivo" ></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<span class="label">Mensaje de notificación:</span> 
+					</td>
+					<td>
+						<textarea class="textbox" type="Text" name="message"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2" align="center">
+						<br />
+						<input type="submit" class="button" value="Enviar Notificación"/>
+					</td>
+				</tr>
+			</table>
+		</form>
+	 
+	</body>
+</html>
